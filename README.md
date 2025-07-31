@@ -68,11 +68,17 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Jackson666&layout=compact&theme=tokyonight&hide_border=true&text_color=ffffff&icon_color=ff0000" alt="Top Languages" />
 </p>
-
 <!-- GitHub 活动图 -->
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Michael-Jackson666&theme=react-dark&hide_border=true&area=true&color=ff0000&line=ff0000&point=ffffff" alt="Activity Graph"/>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 <p align="center">
