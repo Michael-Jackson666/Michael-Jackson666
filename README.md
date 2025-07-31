@@ -20,22 +20,22 @@
 
 - 👋 **Hi, I’m Wenjie Huang.** I'm a computational mathematician focused on simulating the universe's most energetic phenomena.
 
-- 👀 **I’m interested in ...**
+- 👀 **I’m interested in Computational Physics**
   - `Numerical Solutions` for plasma-related Partial Differential Equations (PDEs).
   - `High-Performance Scientific Computing` to model complex physical systems.
   - The elegant logic of `Formal Proof Systems` and the foundations of mathematics.
 
-- 🌱 **I’m currently exploring ...**
+- 🌱 **I’m currently exploring Vlasov-Possion Equations**
   - The power of `Julia` for high-performance numerical analysis.
   - The rigor of `Lean` for formalized mathematics and theorem proving.
   - Building efficient and scalable scientific simulation tools.
 
-- 💞️ **I’m looking to collaborate on ...**
+- 💞️ **I’m looking to collaborate on numerical solutions for PDEs**
   - Open-source projects in scientific computing, physics simulation, or applied mathematics.
   - Anything that applies rigorous mathematical models to solve challenging problems.
 
 - 📫 **How to reach me ...**
-  - Feel free to send me an email at: **your.email@example.com**
+  - Feel free to send me an email at: **jackson11235813@163.com**
 
 - ⚡ **Fun fact:** Plasma is often called the fourth state of matter, but it makes up over 99% of the visible universe!
 
