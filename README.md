@@ -12,7 +12,6 @@
 
 <!-- Title in English, with your professional focus -->
 <h1 align="center">Hi, I'm Wenjie Huang</h1>
-<h3 align="center">A COMPUTATIONAL MATHEMATICIAN TAMING PLASMA CHAOS WITH CODE 🌌</h3>
 
 <!-- The light version of the snake animation. Don't forget to change the username! -->
 <div align="center">
