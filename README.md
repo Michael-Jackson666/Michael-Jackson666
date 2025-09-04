@@ -14,7 +14,7 @@
 <h1 align="center">Hi, I'm Wenjie Huang</h1>
 <h3 align="center">A COMPUTATIONAL MATHEMATICIAN TAMING PLASMA CHAOS WITH CODE 🌌</h3>
 
----
+%%---
 
 ### 👨‍💻 About Me
 
@@ -52,15 +52,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
----
+---%%
 
 ### 📊 My GitHub Activity
 
-<!-- GitHub stat cards with a clean, light theme. Don't forget to change the username! -->
+%% <!-- GitHub stat cards with a clean, light theme. Don't forget to change the username! -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Michael-Jackson666&show_icons=true&theme=default&hide_border=false&icon_color=2F80ED&title_color=2F80ED&text_color=333" alt="Wenjie Huang's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Jackson666&layout=compact&theme=default&hide_border=false&icon_color=2F80ED&title_color=2F80ED&text_color=333" alt="Top Languages" />
-</p>
+</p> %%
 
 <!-- The light version of the snake animation. Don't forget to change the username! -->
 <div align="center">
